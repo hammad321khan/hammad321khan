@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 About Me
-* 💼 I'm a **Software Enginer** and **Business Developer** from Pakistan 🇵🇰  
+* 💼 I'm a **Software Engineer** and **Business Developer** from Pakistan 🇵🇰  
 * 💻 Skilled in **Web Development**, **Shopify Customization**, and **Ai Agents builder**  
 * 🔍 Currently learning **Ai engineering **, **Ai automation**, and deepening my **Shopify Development** skills  
 * 💡 I love solving real-world problems with clean and scalable code  
