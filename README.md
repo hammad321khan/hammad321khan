@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hammad Khan</h1>
-<h3 align="center">A Passionate Shopify Developer, Web Enthusiast & Business Developer ☕</h3>
+<h3 align="center">A Passionate software Developer, Web Enthusiast & Business Developer ☕</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Shopify+Developer;Web+Developer;Business+Developer;Code+Editor;Always+Improving;Fueled+by+Coffee+☕" />
@@ -8,18 +8,18 @@
 ---
 
 ### 🧠 About Me
-* 💼 I'm a **Shopify Developer** and **Business Developer** from Pakistan 🇵🇰  
-* 💻 Skilled in **Web Development**, **Shopify Customization**, and **Store Optimization**  
-* 🔍 Currently learning **SQL**, **Java**, and deepening my **Shopify Development** skills  
+* 💼 I'm a **Software Enginer** and **Business Developer** from Pakistan 🇵🇰  
+* 💻 Skilled in **Web Development**, **Shopify Customization**, and **Ai Agents builder**  
+* 🔍 Currently learning **Ai engineering **, **Ai automation**, and deepening my **Shopify Development** skills  
 * 💡 I love solving real-world problems with clean and scalable code  
 * 🚀 My goal is to create **impactful digital stores** that drive growth and performance  
 
 ---
 
 ### 🔭 I’m Currently Working On  
-* Building and customizing **Shopify stores** for clients  
+* Building and customizing **Ai agents** for clients  
 * Enhancing my **frontend & backend** skills  
-* Learning **SQL & Java** to expand my tech stack  
+* Learning **Ai automation & Full stack developement** to expand my tech stack  
 * Exploring new ways to **merge business strategy with technology**  
 
 ---
@@ -40,7 +40,7 @@
 ---
 
 ### 📫 Reach Me
-* ✉️ Gmail: **[hamadkhanskg@gmail.com](mailto:hamadkhanskg@gmail.com)**  
+* ✉️ Gmail: **[hamadkhanskg11@gmail.com](mailto:hamadkhanskg11@gmail.com)**  
 * 💼 LinkedIn: [**Hammad Khan**](https://www.linkedin.com/in/hammad-khan-700871308)  
 
 ---
